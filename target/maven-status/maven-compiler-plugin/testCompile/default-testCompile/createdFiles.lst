@@ -1,0 +1,4 @@
+automation\steps\DefinitionSteps.class
+automation\steps\serenity\EndUserSteps.class
+automation\DefinitionTestSuite.class
+automation\pages\DictionaryPage.class

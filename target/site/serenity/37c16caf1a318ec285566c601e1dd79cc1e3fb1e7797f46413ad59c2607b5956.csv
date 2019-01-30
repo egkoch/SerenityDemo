@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Lookup a definition","Looking up the definition of 'apple'","SUCCESS","2019-01-26T03:36:52.498-03:00[GMT-03:00]","0.0","17.87"
+"Lookup a definition","Looking up the definition of 'pear'","SUCCESS","2019-01-26T03:37:10.371-03:00[GMT-03:00]","0.0","13.85"
+"Lookup a definition","Looking up the definition of 'cherry'","SUCCESS","2019-01-26T03:37:24.222-03:00[GMT-03:00]","0.0","16.46"
+"Lookup a definition","Looking up the definition of <fruit>","SUCCESS","2019-01-26T03:37:40.692-03:00[GMT-03:00]","0.0","44.04"
